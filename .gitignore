@@ -1,0 +1,40 @@
+# Ignorar directorios y archivos de NetBeans
+/nbproject/private/
+/build/
+/dist/
+nbbuild/
+nbdist/
+.nb-gradle/
+nbproject/project.properties
+nbproject/project.xml
+
+# Ignorar archivos de configuración del IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Ignorar archivos de registro y temporales
+*.log
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignorar archivos de paquetes y dependencias (excepto los gestionados)
+/lib/
+/libs/
+/vendor/
+/vendors/
+*.jar
+
+# EXCEPCIONES: No ignorar archivos .java y dependencias específicas si las hay en directorios ignorados
+!**/*.java
