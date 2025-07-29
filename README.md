@@ -3,19 +3,13 @@
 Este proyecto es un conversor de moneda simple desarrollado en Java. Permite a los usuarios realizar conversiones entre diferentes divisas utilizando tasas de cambio obtenidas de una API externa. El objetivo principal es proporcionar una herramienta fácil de usar para calcular equivalencias monetarias rápidamente.
 
 ## Funcionalidades
-Conversión de Moneda: El programa permite convertir valores entre las siguientes parejas de monedas:
-
-Dólar estadounidense (USD) a Peso Argentino (ARS)
-
-Peso Argentino (ARS) a Dólar estadounidense (USD)
-
-Dólar estadounidense (USD) a Real Brasileño (BRL)
-
-Real Brasileño (BRL) a Dólar estadounidense (USD)
-
-Dólar estadounidense (USD) a Peso Colombiano (COP)
-
-Peso Colombiano (COP) a Dólar estadounidense (USD)
+- Conversión de Moneda: El programa permite convertir valores entre las siguientes parejas de monedas:
+- Dólar estadounidense (USD) a Peso Argentino (ARS)
+- Peso Argentino (ARS) a Dólar estadounidense (USD)
+- Dólar estadounidense (USD) a Real Brasileño (BRL)
+- Real Brasileño (BRL) a Dólar estadounidense (USD)
+- Dólar estadounidense (USD) a Peso Colombiano (COP)
+- Peso Colombiano (COP) a Dólar estadounidense (USD)
 
 Interfaz de Consola: Interacción mediante un menú numérico en la consola para seleccionar el tipo de conversión.
 
@@ -63,7 +57,8 @@ La librería com.google.gson es necesaria para el procesamiento de las respuesta
 Dónde los Usuarios Pueden Encontrar Ayuda sobre Su Proyecto
 Revisar el Código Fuente: El código fuente es la principal fuente de información. Puedes examinar las clases ConversorMoneda.java (para la lógica principal y el menú), Convertir.java (para la lógica de la API), Conversion.java y ConversionDto.java (para la estructura de datos).
 
-## Reportar Problemas/Issues: En la sección Issues puede reportar errores o solicitar nuevas funcionalidades.
+## Reportar Problemas/Issues: 
+En la sección Issues puede reportar errores o solicitar nuevas funcionalidades.
 
 #Autores del Proyecto
 @DavidAG
